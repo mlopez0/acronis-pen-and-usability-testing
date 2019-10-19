@@ -1,10 +1,10 @@
 # acronis-pen-and-usability-testing
-About the cookie poisoning
-
-Image goes here
 
 
 
-Image belong to Alberto twitter.com/thepose
+
+
+![alt text](https://github.com/mlopez0/acronis-pen-and-usability-testing/blob/master/images/cookiesPoison.jpg "twitter.com/thepose")
+
 
 Acronis use **Cookie-Based Authentication**
